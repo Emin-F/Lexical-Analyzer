@@ -1,0 +1,8 @@
+### NOTHING WRITTEN IN LEX FILE ###
+
+
+
+Error message:
+
+ERROR: STRING IS NOT ENDING!
+

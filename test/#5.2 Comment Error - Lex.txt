@@ -1,0 +1,7 @@
+### NOTHING WRITTEN IN LEX FILE ###
+
+
+
+Error message:
+
+ERROR: COMMENT LINE IS NOT ENDING!

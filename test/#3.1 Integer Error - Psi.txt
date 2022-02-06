@@ -1,0 +1,3 @@
+hi:=HeLlo; (*Case indifference*)
+H1:="ABC";
+h3:=123456789123;

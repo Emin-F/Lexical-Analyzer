@@ -1,0 +1,11 @@
+Identifier(hi)
+Operator(:=)
+Identifier(hello)
+EndOfLine
+Identifier(h1)
+Operator(:=)
+String(ABC)
+EndOfLine
+Identifier(h3)
+Operator(:=)
+EndOfLine

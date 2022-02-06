@@ -1,0 +1,7 @@
+Identifier(HI)
+Operator(:=)
+Identifier(HELLO)
+EndOfLine
+Identifier(H1)
+Operator(:=)
+EndOfLine

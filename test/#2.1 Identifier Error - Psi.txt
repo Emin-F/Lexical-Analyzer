@@ -1,0 +1,2 @@
+hi:=HeLlo; (*Case indifference*)
+H1:=asdqweqwtsdfgdfgasdaa;

@@ -1,0 +1,36 @@
+hi:=HeLlo; (*Case indifference*)
+H1:=h2;
+
+a1:=a2+a3; (* Comment1 *)
+b1:=b2-b3;
+c1:=c2*c3;
+d1:=d2/d3;
+e1:=e2++e3;
+f1:=f2--f3;
+
+g1:=(g2);
+h1:=[h2];
+i1:={i2};
+
+(* Comment Line *)
+
+k1:="This is a string.";
+
+break;
+case;
+char;
+const;
+CoNtiNuE; (*Case indifference*)
+do;
+else; (* Comment 2 *)
+enum;
+float;
+for;
+goto;
+if;
+int;
+long;
+record;
+return;
+static;
+while (o1:=o2);
